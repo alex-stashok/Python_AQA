@@ -6,7 +6,6 @@ this_list.append ("orange")
 this_list.insert(3, "kiwi")
 print(this_list)
 
-
 old_list = [1, 2, 3]
 
 # copy list using =
